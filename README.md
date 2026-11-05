@@ -6,11 +6,13 @@ Wrangling agents, making friends along the way, and trying to change the world, 
 
 [themodelindex.org](https://themodelindex.org)
 
+[![The Model Index: capability of every major AI model since ChatGPT, closed and open side by side](assets/model-index.png)](https://themodelindex.org)
+
 Every major AI model since ChatGPT, measured from third-party evidence: capability over time, open vs closed, price, releases from 22 labs, and who in the world can actually reach them. It covers every country and goes deepest on South Africa first. A pipeline checks the sources every 30 minutes and the site updates itself.
 
 ### Speech recognition for all 11 South African languages
 
-I fine-tuned an open speech model on all 11 official languages for under $15 of GPU. Setswana is at 4.4% word error rate and Sepedi, my own language, at 9.3%. Leaderboard coming soon.
+I fine-tuned an open speech model on all 11 official languages for under $15 of GPU. Results and a leaderboard coming soon.
 
 ### Agents and inference
 
