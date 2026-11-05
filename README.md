@@ -16,7 +16,7 @@ I fine-tuned a 3-billion-parameter open speech model on all 11 official language
 
 ### Agents and inference
 
-I'm really into agents, an aspiring agentic cowboy if you like. I love handing a fleet of them a problem that's too big for one person and seeing how far we get. My other rabbit hole is inference, making models run fast and cheap. The last thing I built starts answering in under three seconds for under two cents.
+I'm really into agents, an aspiring agentic cowboy if you like. I love handing a fleet of them a problem that's too big for one person and seeing how far we get. I build whole pipelines out of them too, for media, for code and for whatever else the job needs, and I've run them across an RTX PRO 6000 and a handful of servers at once. My other rabbit hole is inference, making models run fast and cheap. The last thing I built starts answering in under three seconds for under two cents.
 
 Most repos are private today. I've got a lot of cool open source projects I've been working on in the back, and I'll start pushing them up here soon. My first fix merged upstream is in gVisor, the sandbox Google runs Cloud Run on: [google/gvisor#15445](https://github.com/google/gvisor/pull/15445).
 
