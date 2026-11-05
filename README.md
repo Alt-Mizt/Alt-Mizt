@@ -6,7 +6,7 @@ Wrangling agents, making friends along the way, and trying to change the world, 
 
 [themodelindex.org](https://themodelindex.org)
 
-Every major AI model since ChatGPT, measured from third-party evidence: 257 models from 22 labs, closed and open side by side, with what they cost. A pipeline checks the sources every 30 minutes and the site updates itself.
+Every major AI model since ChatGPT, measured from third-party evidence: 376 models tracked and 257 scored across 22 labs, closed and open side by side, with what they cost. I built it and run it myself. A pipeline checks the sources every 30 minutes and the site updates itself.
 
 Then it asks what all of that means for people, country by country. The World view covers 215 countries and territories: who can reach these models, what a $20 plan costs against what households there live on, who is online, who is using them and where they get built. That plan is 0.57% of the median living standard in Switzerland and 99% in Zambia. For about 4.6 billion people it is more than a tenth.
 
@@ -16,8 +16,8 @@ I fine-tuned a 3-billion-parameter open speech model on all 11 official language
 
 ### Agents and inference
 
-I'm really into agents, an aspiring agentic cowboy if you like. I love handing a fleet of them a problem that's too big for one person and seeing how far we get. My other rabbit hole is inference, making models run fast and cheap.
+I'm really into agents, an aspiring agentic cowboy if you like. I love handing a fleet of them a problem that's too big for one person and seeing how far we get. So far that's 8,700+ contributions in a year. My other rabbit hole is inference, making models run fast and cheap. The last thing I built starts answering in under three seconds for under two cents.
 
-Most repos are private today. I've got a lot of cool open source projects I've been working on in the back, and I'll start pushing them up here soon. First fix merged upstream: [google/gvisor#15445](https://github.com/google/gvisor/pull/15445).
+Most repos are private today. I've got a lot of cool open source projects I've been working on in the back, and I'll start pushing them up here soon. My first fix merged upstream is in gVisor, the sandbox Google runs Cloud Run on: [google/gvisor#15445](https://github.com/google/gvisor/pull/15445).
 
 I write about AI and what it means for Africa on [LinkedIn](https://www.linkedin.com/in/thato-tladi-9001b827a/).
