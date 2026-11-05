@@ -6,13 +6,13 @@ Wrangling agents, making friends along the way, and trying to change the world, 
 
 [themodelindex.org](https://themodelindex.org)
 
-[![The Model Index: capability of every major AI model since ChatGPT, closed and open side by side](assets/model-index.png)](https://themodelindex.org)
+Every major AI model since ChatGPT, measured from third-party evidence: 257 models from 22 labs, closed and open side by side, with what they cost. A pipeline checks the sources every 30 minutes and the site updates itself.
 
-Every major AI model since ChatGPT, measured from third-party evidence: capability over time, open vs closed, price, releases from 22 labs, and who in the world can actually reach them. It covers every country and goes deepest on South Africa first. A pipeline checks the sources every 30 minutes and the site updates itself.
+Then it asks what all of that means for people, country by country. The World view covers 215 countries and territories: who can reach these models, what a $20 plan costs against what households there live on, who is online, who is using them and where they get built. That plan is 0.57% of the median living standard in Switzerland and 99% in Zambia. For about 4.6 billion people it is more than a tenth.
 
 ### Speech recognition for all 11 South African languages
 
-I fine-tuned an open speech model on all 11 official languages for under $15 of GPU. Results and a leaderboard coming soon.
+I fine-tuned a 3-billion-parameter open speech model on all 11 official languages for under $15 of GPU. At the other end I'm training a 65-million-parameter one, 73 MB, to do the same job on a phone with no internet, isiZulu first. Results and a leaderboard coming soon.
 
 ### Agents and inference
 
