@@ -12,7 +12,7 @@ Then it asks what all of that means for people, country by country. The World vi
 
 ### Speech recognition for all 11 South African languages
 
-I fine-tuned a 3-billion-parameter open speech model on all 11 official languages for under $15 of GPU. At the other end I'm training a 65-million-parameter one, 73 MB, to do the same job on a phone with no internet. Results and a leaderboard coming soon.
+I fine-tuned a 3-billion-parameter open speech model on all 11 official languages for under $15 of GPU. On read speech it cut errors by more than half and already beats Whisper large-v3 on South African English. At the other end I'm training a 65-million-parameter one, 73 MB, to do the same job on a phone with no internet. Leaderboard coming soon.
 
 ### Agents and inference
 
